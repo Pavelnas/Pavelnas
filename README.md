@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelnas&label=Profile%20views&color=0e75b6&style=flat" alt="pavelnas" /> </p>
 
-- 🔭 I’m currently working on [Yogobe AB](yogobe.com)
+- 🔭 I’m currently working @ [Yogobe AB](yogobe.com)
 
 - 📫 How to reach me **ahmed.abdelkareeem@gmail.com**
 
